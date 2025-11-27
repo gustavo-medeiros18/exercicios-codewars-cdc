@@ -10,7 +10,7 @@ def find_needle(haystack):
 
     return f"found the needle at position {position}"
 
-# Abordagem alternativa, usando a f
+# Abordagem alternativa, usando a função/método index
 # def find_needle(haystack):
 #     position = haystack.index("needle")
 #     return f"found the needle at position {position}"
